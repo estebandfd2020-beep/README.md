@@ -6,13 +6,6 @@
 
 ---
 
-### 1. Enlace al Video del Pitch
-* **Enlace de YouTube (No listado):** [Pega aquí el enlace de tu video subido a YouTube o Vimeo]
-
----
-
-### 2. Resumen del Proyecto y Guion del Pitch
-
 #### a. Problema Abordado
 En la educación superior, los trabajos grupales presentan con frecuencia desequilibrios de carga de trabajo, donde unos pocos estudiantes asumen la mayor parte del proyecto mientras otros no participan. Esto genera conflictos, disminuye el rendimiento académico y desmotiva el aprendizaje colaborativo.
 
